@@ -7,12 +7,14 @@ The Study Tracker Project is a productivity-based application designed to help s
 The system focuses on improving consistency, time management, and goal achievement by offering real-time insights into study patterns and performance.
 
 🎯 Objectives
+
 	•	Help students organize their study schedule
 	•	Track daily and subject-wise progress
 	•	Improve productivity and time utilization
 	•	Provide analytics for performance improvement
 
 ✨ Features
+
 	•	📅 Study Scheduling – Plan subjects and sessions day-wise
 	•	✅ Task Tracking – Mark completed study sessions
 	•	📊 Progress Visualization – Graphs and charts for analysis
@@ -21,12 +23,14 @@ The system focuses on improving consistency, time management, and goal achieveme
 	•	📈 Performance Insights – Identify weak and strong areas
 
 💡 Advantages
+
 	•	Improves discipline and consistency
 	•	Helps in goal-oriented learning
 	•	Easy to use and lightweight
 	•	Useful for exam preparation
 
 🚀 Future Enhancements
+
 	•	🔐 User authentication system
 	•	☁️ Cloud storage support
 	•	📱 Mobile application version
@@ -34,6 +38,7 @@ The system focuses on improving consistency, time management, and goal achieveme
 	•	🤖 AI-based study recommendations
 
 👨‍💻 Use Cases
+
 	•	Students preparing for competitive exams
 	•	Daily study planning
 	•	Time management improvement
